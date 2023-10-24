@@ -8,7 +8,7 @@ The repository is organised as follows:
 - `ot_dist.py`: contains methods for the computation of the `OT` loss;
 - `comp_minimax_rates.py`: computes the `OT` losses and saves them in the folder `results`;
 - `plot_minimax_rates.ipynb`: notebook which plots the minimax rates that are saved in the folder results;
-- `data`: folder containing persistence diagrams of torus and double torus;
+- `data`: folder containing persistence diagrams of torus, double torus, clustered process, and dynamical system;
 - `results`: folder containing the `OT` losses.
 
 ## Academic Use
