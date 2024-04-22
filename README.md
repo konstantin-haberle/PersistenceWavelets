@@ -1,6 +1,6 @@
 # Wavelet-Based Density Estimation for Persistent Homology
 
-This repository provides an implementation of a wavelet-based estimator for persistence diagrams. Moreover, it contains the code for the numerical experiments in [Wavelet-Based Density Estimation for Persistent Homology](https://arxiv.org/abs/2305.08999). 
+This repository provides an implementation of a wavelet-based estimator for persistence diagrams. Moreover, it contains the code for the numerical experiments in [Wavelet-Based Density Estimation for Persistent Homology](https://doi.org/10.1137/23M1573811). 
 
 The repository is organised as follows:
 
