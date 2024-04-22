@@ -14,7 +14,7 @@ The repository is organised as follows:
 ## Academic Use
 For academic use of this project, please cite it using the following BibTeX entry:
 ```bibtex
-@article{haberle2023PersistenceWavelets,
+@article{haberle2024PersistenceWavelets,
     author = {H\"{a}berle, Konstantin and Bravi, Barbara and Monod, Anthea},
     title = {Wavelet-Based Density Estimation for Persistent Homology},
     journal = {SIAM/ASA Journal on Uncertainty Quantification},
